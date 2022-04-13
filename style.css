@@ -1,0 +1,14 @@
+body {
+  background-color: lightcyan;
+}
+
+hr {
+  border: none;
+  border-top: dotted;
+  border-width: 5px;
+  width: 10%;
+}
+
+h2, h3 {
+  color: navy;
+}
